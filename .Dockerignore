@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+package-lock.json
+
+Dockerfile
+k8s
+
+.gitignore
+README.md
+.git
+
+*.env
